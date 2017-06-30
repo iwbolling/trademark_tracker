@@ -4,4 +4,8 @@
 body {
   font-family: "PT Sans Caption",sans-serif; }
 
+#trademark-table {
+  border: 2px solid black;
+  width: 100%; }
+
 /*# sourceMappingURL=styles.css.map */
