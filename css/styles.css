@@ -4,8 +4,19 @@
 body {
   font-family: "PT Sans Caption",sans-serif; }
 
-#trademark-table {
+#trdmrk-list, #trdmrk-single {
   border: 2px solid black;
+  padding: 4px;
   width: 100%; }
+
+#trdmrk-single_body tr {
+  width: 100%; }
+
+#trdmrk-single_body td {
+  padding: 4px;
+  width: 25%; }
+
+.intlGoods {
+  width: 50%; }
 
 /*# sourceMappingURL=styles.css.map */
